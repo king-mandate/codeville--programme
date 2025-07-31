@@ -1,0 +1,33 @@
+/* div{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+} */
+
+.div1{
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+}
+
+.div2{
+     width: 300px;
+    border: 15px solid yellow;
+    padding: 50px;
+    margin: 20px;
+}
+
+h1{
+    background-color: coral;
+    color: mintcream;
+}
+
+.intro1{
+    color: aqua;
+}
+
+.intro2{
+    color: maroon;
+}

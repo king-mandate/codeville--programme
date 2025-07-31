@@ -1,0 +1,33 @@
+p{
+    color: darkolivegreen;
+    font-size: 31px;
+    background-color: black;
+    font: caption;
+}
+
+body{
+    background-color: midnightblue;
+}
+
+h1,h2{
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    background-color: coral;
+}
+
+ol,ul{
+    color: navajowhite;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-weight: bolder;
+}
+
+img{
+    width: 1000px;
+    border-style: initial;
+    border-radius: 9vw;
+}
